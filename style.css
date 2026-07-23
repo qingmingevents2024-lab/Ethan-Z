@@ -1,5 +1,5 @@
 h1{
-    color: rgb(255, 182, 0);
+    color: rgb(0, 255, 255);
     text-align: center;
 
 }
@@ -8,3 +8,13 @@ p{
     text-align:  center;
     
 }
+
+div{
+    color: rgb(0, 255, 255);
+    text-align: center;
+}
+
+
+
+
+
