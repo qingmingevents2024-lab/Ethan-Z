@@ -17,4 +17,16 @@ a{
     color: rgb(0, 42, 255); 
     text-align: center;
 }
- 
+ h2{
+    color: rgb(208, 90, 12);
+    text-align: center;
+ }
+ h3{
+    color:rgb(208, 90, 12);
+    text-align: center;
+ }
+h4{
+    color: rgb(208, 90, 12);
+    text-align: center;
+    text-decoration: dotted;
+}
