@@ -31,7 +31,7 @@ h4{
     text-decoration: dotted;
 }
 #h1:hover{
-   animation: hi 1s ease-in-out alternate; 
+   animation: hi 0.5s ease-in-out alternate; 
 }
 html{
     scroll-behavior: smooth;
