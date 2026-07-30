@@ -40,7 +40,8 @@ html{
     scroll-behavior: smooth;
 }
 li{
-    color:rgb(0, 42, 255)
+    color:rgb(0, 42, 255);
+    text-align: center;
 }
 img {
     display: block;
