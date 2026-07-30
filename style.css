@@ -39,8 +39,12 @@ body{
 html{
     scroll-behavior: smooth;
 }
-
-
+img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+}
 
 
 
