@@ -36,7 +36,9 @@ h4{
 body{
     background-color:rgb(151, 5, 156)
 }
-
+html{
+    scroll-behavior: smooth;
+}
 
 
 
