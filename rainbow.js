@@ -1,3 +1,4 @@
+alert("welcome to my website");
 const main = document.body;
 let angle=0;
 let increment=5;
