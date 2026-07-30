@@ -15,8 +15,16 @@ div{
 }
 a{
     color: rgb(0, 42, 255); 
+}
+ul {
     text-align: center;
 }
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
  h2{
     color: rgb(208, 90, 12);
     text-align: center;
