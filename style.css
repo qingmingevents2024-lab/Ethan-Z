@@ -39,6 +39,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
+li{
+    color:rgb(0, 42, 255)
+}
 img {
     display: block;
     width: 300px;
