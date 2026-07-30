@@ -30,20 +30,11 @@ h4{
     text-align: center;
     text-decoration: dotted;
 }
-.my-element {
-  animation-name: hi;
-  animation-duration: 2s;
-  animation-iteration-count: infinite; /* Loops forever */
-  animation-timing-function: linear;    /* Smooth continuous speed */
+#title:hover{
+   animation: hi 1s ease-in-out alternate; 
 }
-
-@keyframes hi {
-  0% {
-    transform: scale(0.1) translateY(-10px);
-  }
-  100% {
-    transform: scale(3) translateY(-10px);
-  }
+body{
+    background-color:rgb(151, 5, 156)
 }
 
 
