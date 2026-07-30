@@ -1,4 +1,4 @@
-
+let nothing = 0;
 const main = document.body;
 let angle=0;
 let increment=0.2;
