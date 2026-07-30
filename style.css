@@ -30,6 +30,70 @@ h4{
     text-align: center;
     text-decoration: dotted;
 }
+#title:hover{
+   animation: hi 1s ease-in-out alternate; 
+}
 body{
     background-color:rgb(151, 5, 156)
 }
+@keyframes hi{
+    0%{
+        transform: scale(0.1) translateY(-10px);
+    }
+    100%{
+        transform: scale(3) translateY(-10px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
