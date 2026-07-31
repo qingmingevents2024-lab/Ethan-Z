@@ -60,6 +60,19 @@ li{
     color:rgb(0, 42, 255);
     text-align: center;
 }
+.youtube-button {
+    display: inline-block;
+    background-color: #ff0000;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.youtube-button:hover {
+    background-color: #cc0000;
+}
 img {
     display: block;
     width: 300px;
