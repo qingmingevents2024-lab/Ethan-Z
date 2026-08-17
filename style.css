@@ -81,51 +81,113 @@ img {
 }
 
 
+.interactive-violin {
+    text-align: center;
+    background: #f5dfb3;
+    padding: 25px;
+    border-radius: 20px;
+    margin: 30px 0;
+}
 
+.violin-diagram {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    margin: 20px auto;
+    background: #9b4d1f;
+    border-radius: 45% 45% 35% 35%;
+    border: 8px solid #5c2d16;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
 
+.violin-part {
+    position: absolute;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
 
+.violin-part:hover {
+    transform: scale(1.1);
+    background-color: #ffd700;
+}
 
+.peg {
+    top: 20px;
+    left: 110px;
+    background: #32170c;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
 
+.neck {
+    top: 75px;
+    left: 105px;
+    width: 90px;
+    height: 120px;
+    background: #6b351b;
+    color: white;
+}
 
+.fingerboard {
+    top: 150px;
+    left: 115px;
+    width: 70px;
+    height: 200px;
+    background: #17120f;
+    color: white;
+}
 
+.body {
+    top: 300px;
+    left: 55px;
+    width: 190px;
+    height: 220px;
+    border-radius: 45%;
+    background: #b85c28;
+    color: white;
+}
 
+.bridge {
+    top: 360px;
+    left: 115px;
+    width: 70px;
+    height: 15px;
+    background: #e8c27c;
+}
 
+.strings {
+    top: 200px;
+    left: 130px;
+    width: 40px;
+    height: 220px;
+    background: transparent;
+    color: white;
+    writing-mode: vertical-rl;
+}
 
+.tailpiece {
+    bottom: 30px;
+    left: 105px;
+    width: 90px;
+    height: 70px;
+    background: #24130b;
+    color: white;
+    border-radius: 50%;
+}
 
+#violin-info {
+    font-size: 20px;
+    font-weight: bold;
+}
 
+.dark-mode {
+    background-color: #181818;
+    color: white;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.dark-mode h1,
+.dark-mode h2 {
+    color: #ffd166;
+}
