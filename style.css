@@ -198,3 +198,11 @@ img {
     box-shadow: 0 0 25px #00ffcc;
     transform: scale(1.12);
 }
+ body {
+      text-align: center;
+    }
+
+    a {
+      display: block;
+      margin: 10px;
+    }
