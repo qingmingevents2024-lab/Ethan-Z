@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="rainbow.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Violins</title> 
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+ <title id="Violins">Violins</title>
+
+<h1>Violins</h1>
+
+<button id="darkModeButton">🌙 Dark Mode</button>
+
+<ul>
+    <li><a href="#violin">What is a Violin?</a></li>
+    <li><a href="#fun_stuff">Fun Games</a></li>
+    <li><a href="#parts">Parts of a Violin</a></li>
+    <li><a href="#composers">Famous Composers</a></li>
+    <li><a href="#pieces">Famous Pieces</a></li>
+    <li><a href="#violin_history">Violin History</a></li>
+    <li><a href="#performances">Performances</a></li>
+    <li><a href="#basics">Violin Basics</a></li>
+    <li><a href="#tips">Beginner Tips</a></li>
+    <li><a href="#facts">Fun Facts</a></li>
+    <li><a href="#me">Fun Facts 'Bout Me</a></li>
+</ul>
+
+<h2 id="violin">What is a violin???</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.png" alt="A violin" width="300">
+<p>A violin is a string instrument that has four strings.</p>
+<p>A violin has many important parts.</p>
+
+<h2 id="fun_stuff">Fun Games</h2>
+<a href="#Violins">Back to top</a>
+<h2>🎹 Piano Fun</h2>
+    <ul>
+        <li><a href="https://www.pianomarvel.com/" target="_blank">🌟 Piano Marvel (Earn points!)</a></li>
+        <li><a href="https://www.makingmusicfun.net/" target="_blank">😄 MakingMusicFun.net (Jokes & Sheet Music)</a></li>
+    </ul>
+
+    <h2>👂 Ear Training Games</h2>
+    <ul>
+        <li><a href="https://vickiyakubovich.com/games/" target="_blank">Victoria Yakubovich. Great teacher, great website!</a></li>
+        <li><a href="https://www.earmaster.com/?srsltid=AfmBOoq30eeLmrqRAAPGyFZKMV0jEB1Fb8M5-Vt4YDOBG2DIhc6lCKpw" target="_blank">Great app, must try now!!</a></li>
+        <li><a href="https://trainer.thetamusic.com/en/content/music-training-games" target="_blank">Games for Ear Training and Music Theory!!</a></li>
+        <li><a href="https://musiclab.chromeexperiments.com/" target="_blank">🎨 Chrome Music Lab (Draw your own music!)</a></li>
+    </ul>
+
+    <h2>Metronome</h2>
+<a href="https://www.imusic-school.com/en/tools/online-metronome/" target="_blank">Metronome</a>
+
+    <h2>VIOLIN GAMES</h2>
+<a href="https://music.school.nz/violin/" target="_blank">Practice your notes</a>
+<a href="https://www.trala.com/" target="_blank">Music App</a>
+<a href="https://www.violinlounge.com/blog/17-best-online-violin-lessons-courses-and-apps-really-learn-to-play" target="_blank">Violin Lounge!</a>
+<h2 id="parts">Parts of a Violin</h2>
+<a href="#Violins">Back to top.</a>
+
+<div class="interactive-violin">
+    <h3>🎻 Explore the Violin!</h3>
+    <p>Click a part to learn about it.</p>
+
+    <div class="violin-diagram">
+        <button class="violin-part peg" data-part="Pegs">🎵</button>
+        <button class="violin-part neck" data-part="Neck">Neck</button>
+        <button class="violin-part fingerboard" data-part="Fingerboard">Fingerboard</button>
+        <button class="violin-part body" data-part="Body">Body</button>
+        <button class="violin-part bridge" data-part="Bridge">Bridge</button>
+        <button class="violin-part strings" data-part="Strings">Strings</button>
+        <button class="violin-part tailpiece" data-part="Tailpiece">Tailpiece</button>
+    </div>
+
+    <p id="violin-info">Click a part of the violin!</p>
+</div>
+
+<ul>
+    <li><strong>Pegs:</strong> Turn these to tune the strings.</li>
+
+    <li><strong>Nut:</strong> Holds the strings at the correct spacing.</li>
+
+    <li><strong>Fingerboard:</strong> The smooth black board where you press the strings to change notes.</li>
+
+    <li><strong>Body:</strong> The wooden part that amplifies the sound.</li>
+
+    <li><strong>F-holes:</strong> Openings that help the sound project from the violin.</li>
+
+    <li><strong>Bridge:</strong> Holds the strings up and transfers their vibrations into the body.</li>
+
+    <li><strong>Strings:</strong> Usually tuned to G, D, A, and E.</li>
+
+    <li><strong>Tailpiece:</strong> Anchors the strings to the bottom of the violin.</li>
+
+    <li><strong>Fine Tuners:</strong> Small screws used for precise tuning.</li>
+
+    <li><strong>Chin Rest:</strong> Supports your chin while you play.</li>
+
+    <li><strong>End Button:</strong> Holds the tailpiece in place.</li>
+</ul>
+
+<h2 id="composers">Famous Classical Composers</h2>
+<a href="#Violins">Back to top.</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beethoven.jpg/200px-Beethoven.jpg" alt="Ludwig van Beethoven" width="200">
+<p>Violin composers compose music. This means that they write music. Some songs are very famous!!!</p>
+<p>A few famous violin composers are: Beethoven, Bohm, Mollenhauer, Beriot, Clebanoff, Martini, Dvorák, Becker, Handel, Weber, Bayly, Brahms, Schumann, Paganini, Thomas, Lully, Boccherini, Vivaldi, Mozart, Bach, Rieding, Seitz, and a lot more!!! </p> 
+
+<h2 id="pieces">A few famous songs</h2>
+<a href="#Violins">Back to top.</a>
+<h3>Seitz</h3>
+<ul>
+<li>Concerto No. 2 in G Major, Op. 13, 3rd Mvt.</li>
+<li>Concerto No. 5 in D Major, Op. 22, 1st Mvt.</li>
+<li>Concerto No. 5 in D Major, Op. 22, 3rd Mvt.</li>
+<li>Concerto No. 3 in G Minor, Op. 12, 1st Mvt.</li>
+</ul>
+<h3>Bohm</h3>
+<ul>
+<li>Perpetual Motion, Little Suite No. 6.</li>
+<li>Sarabande in G Minor.</li>
+<li>Introduction and Polonaise, from Arabesken, No. 12</li>    
+</ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+<h3>Beethoven</h3>
+<ul>
+<li>Minuet in G.</li>
+<li>Für Elise</li>
+</ul>
+
+<p>There still are a lot more songs in the world</p>
+
+<h2 id="violin_history">Violin History</h2>
+<a href="#Violins">Back to top.</a>
+<p>The violin emerged in northen Italy in the early 1500s.</p>
+<p>Master luthier Andrea Amati of Cremona established the instrument's classic shape, size, and proportions, blending features from Renaissance predecessors like the rebec, fiddle, and lira da braccio.</p>
+<h3>Ancestors and Early Evolution.</h3>
+<p>Middle Eastern & Asian roots: Bowed instruments trace back globally through ancestors like the Arabic rebab and Asian spiked fiddles.</p>
+<p>European transition: Medieval and Renaissance musicians played three-stringed rebecs and arm-held lira da braccios that paved the way for the modern family of instruments.</p>
+<p>The Amati Standard: Andrea Amati standardized the four-string design in Cremona, Italy, creating instruments for European nobility, including King Charles IX of France</p>
+
+<h2 id="performances">Performances</h2>
+<a href="#Violins">Back to top.</a>
+<p>Violin performances are held throughout the year in schools, concert halls, churches, and festivals.</p>
+<p>Performances might consist of one player or more. If only one person plays, then it's called a solo. Larger groups might be called chamber music, duets, quartets, or orchestras. </p>
+<p>If you want to learn more about performances, go to: Mindful Musicians </p>
+<a href="https://www.mindfulmusicians.art/">Performances. Visit it!!!</a>
+
+<h2 id="basics">Basics</h2>
+<a href="#Violins">Back to top.</a>
+
+<h3>This is what will be inside of this part.</h3>
+<div>Dynamics</div>
+<div>Tempo</div>
+<div>Rhythm</div>
+<div>Tone (Hz)</div>
+<div>Musical Signs and what they mean</div>
+
+<h4>Dynamics</h4>
+<a href="#basics">Back to basics!</a>
+<p>Dynamics means loudness and softness.</p>
+<p>There is quite a lot of information about dynamics.</p>
+<p>There are many dynamic markings.</p>
+<p>Here is a scale of dynamics.</p>
+<p>ppp (pianississimo), pp (pianissimo), p (piano), mp (mezzo piano), mf (mezzo forte), f (forte), ff (fortissimo), fff (fortississimo)</p>
+
+<h4>Tempo</h4>
+<a href="#basics">Back to basics!</a>
+<p>Tempo means speed.</p>
+<p>BPM stands for Beats Per Minute.</p>
+<p>This means that you're clapping at a steady pace.</p>
+<p>Larghissimo: 20 BPM and under – Very, very slow. Grave: 20–40 BPM – Slow and solemn. Lento / Largo: 40–60 BPM – Slowly and broadly. Larghetto: 60–66 BPM – Rather broadly. Adagio: 66–76 BPM – Slow and stately (literally, "at ease"). Andante: 76–108 BPM – At a walking pace. Moderato: 108–120 BPM – Moderate speed. Allegretto: 112–124 BPM – Moderately fast. Allegro: 120–156 BPM – Fast, quickly, and bright. Vivace: 156–184 BPM – Lively and fast. Presto: 168–200 BPM – Extremely fast. Prestissimo: 200+ BPM – Even faster than presto.</p>
+<p>Usually, the music you're playing has the tempo in the top-left corner.</p>
+<p>If it doesn't, then just play it at a speed.</p>
+<p>You can always adjust.</p>
+
+<h4>Rhythm</h4>
+<a href="#basics">Back to basics!</a>
+<p>Rhythm means a regular, repeating pattern of sounds, movements, or changes.</p>
+<p>The most common types of Rhythm are: Whole notes: four beats of the BPM. Half notes: two beats of the BPM. Quarter notes: one beat of the BPM. Eighth notes: half of a beat. Sixteenth notes: a quarter of a beat.</p>
+<p>These are a few types of Rhythm(they might not be related to violins.)Regular Rhythm: An even, steady beat pattern found in marches and pop songs. Syncopated Rhythm: Shifts the stress or emphasis to weak off-beats instead of strong downbeats, common in jazz and funk. Free Rhythm: A sound structure with no fixed beat or strict tempo, heard in some classical and devotional styles. Polyrhythm: The layering of two or more independent or conflicting rhythms at the same time, popular in African and advanced music.</p>
+
+<h2 id="tips">A few tips if you want to play the Violin</h2>
+<a href="#Violins">Back to top.</a>
+<img src="https://cdn.britannica.com/27/176327-050-67702AB2/Violin.jpg" alt="Violin">
+<p>As an 8-year-old violin and piano player, I have a few tips for learning the violin.</p>
+<ul>
+    <li>Practice every day, even for 10–15 minutes.</li>
+    <li>Tune your violin before practicing.</li>
+    <li>Keep your bow straight.</li>
+    <li>Play slowly before trying to play fast.</li>
+    <li>Have fun and don't give up!</li>
+</ul>
+
+<h2 id="facts">Fun Facts</h2>
+<a href="#Violins">Back to top.</a>
+
+
+<ul>
+    <li>A violin has four strings.</li>
+    <li>Violins are usually made from wood.</li>
+    <li>A violin bow is usually made with horsehair.</li>
+    <li>Some famous violins were made over 300 years ago.</li>
+</ul>
+<h2>🎥Watch my videos!!!</h2>
+<a href="#Violins">Back to top.</a>
+
+<a class="youtube-button"
+   href="https://www.youtube.com/@BABJ-boundlessartbeautifuljour"
+   target="_blank">
+    🎥 Visit My YouTube Channel
+</a>
+
+
+<a id="me">Fun Facts 'Bout Me</a>
+<ul>
+    <li>I started playing violin when I was 6 yrs old.</li>
+    <li>I have 3 cases for violin, 3 bows, but only 2 VIOLINS!!!</li>
+    <li>I also play piano.</li>
+    <li>I like reading, engineering, chemistry, violin, homework(Bruh, why😜🤑), piano, my ipad, watch, and computer.</li>
+    <li>I hate school, my brother, having to go to bed early, and cake</li>
+</ul>
+
+<a href="#Violins">Back to top.</a>
+
+<p><em>(Ask a parent to help you get a real link from Netlify or Vercel!)</em></p>
+
+
+<footer>
+    Made by a violin lover🎻
+    Thank you for visiting!
+</footer>
+</body>
+</html>
